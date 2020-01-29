@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.960
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "Northwind_Data_WarehouseProject", "Northwind_Data_WarehouseProject\Northwind_Data_WarehouseProject.dtproj", "{912123F8-B553-41E4-ACE4-ACB36D04B154}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{912123F8-B553-41E4-ACE4-ACB36D04B154}.Development|Default.ActiveCfg = Development
+		{912123F8-B553-41E4-ACE4-ACB36D04B154}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1E8F0607-3C55-476F-AAA5-D3857EEB651B}
+	EndGlobalSection
+EndGlobal
